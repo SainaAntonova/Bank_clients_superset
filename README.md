@@ -108,9 +108,10 @@
     isactivemember INTEGER,
     estimatedsalary NUMERIC,
     exited INTEGER);
+    ```
 
    8.6 Добавляем данные в таблицу
-
+   ```
     \copy customer_data FROM 'credit_clients.csv' DELIMITER ',' CSV HEADER;
 
     ```
