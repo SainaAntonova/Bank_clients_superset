@@ -1,10 +1,13 @@
 # Bank_clients_superset
 
+[DAG](bank_user_data-dag.py) для ежедневной автоматической подгрузки данных в БД о клиентах из [S3-контейнера](https://9c579ca6-fee2-41d7-9396-601da1103a3b.selstorage.ru/new_clients.csv)
+
+---------
+
 ![screenshot](bank_client_superset.png)
 
 
-
-
+---------
 
 ### Инструкция по подключению PostgreSQL и Apache Superset ###
 
