@@ -84,7 +84,7 @@
     apt-get update
     apt-get install -y wget  
     ```
-   8.4 Скачиваем базу по (ссылке)[https://9c579ca6-fee2-41d7-9396-601da1103a3b.selstorage.ru/new_clients.csv]. (Тут)[https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling] можно посмотреть описание датасета: 
+   8.4 Скачиваем базу по [ссылке](https://9c579ca6-fee2-41d7-9396-601da1103a3b.selstorage.ru/new_clients.csv). [Тут](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling) можно посмотреть описание датасета: 
     ```
     wget https://9c579ca6-fee2-41d7-9396-601da1103a3b.selstorage.ru/credit_clients.csv
     
